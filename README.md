@@ -2,7 +2,7 @@
 Сохраняйте контроль над всеми важными платежами с PayCheck! Удобные напоминания и статистика помогут вам вовремя оплачивать счета, избегать штрафов и лучше планировать бюджет.
 PayCheck — приложение, которое наполняет вашу жизнь вдохновляющими, практическими и мотивирующими советами каждый день! Независимо от того, хотите ли вы улучшить свою повседневную рутину, найти мотивацию для новых достижений или просто получить добрый совет, который заставит вас улыбнуться, PayCheck станет вашим надежным компаньоном.
 
-<img src="https://github.com/evilgen21/PayCheck#:~:text=3%20Commits-,1.png,-Add%20files%20via" width="194" height="420"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/42/af/48/42af48bd-ae9c-01f9-d413-ef2136d952c8/37da929b-bf9c-4334-abf6-fcb4d6cf7dbf_2.jpg/460x0w.webp" width="194" height="420"> <img src="https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/64/62/f3/6462f368-0f77-b5de-c074-a98d576f2217/12ea1fc8-c463-4dcf-935a-63de2aeb6c91_3.jpg/460x0w.webp" width="194" height="420"> 
+<img src="https://github.com/evilgen21/PayCheck/blob/main/1.png" width="194" height="420"> <img src="https://github.com/evilgen21/PayCheck/blob/main/2.png" width="194" height="420"> <img src="https://github.com/evilgen21/PayCheck/blob/main/3.png" width="194" height="420"> <img src="https://github.com/evilgen21/PayCheck/blob/main/4.png" width="194" height="420">
 
 Это ваш надежный помощник в организации финансов, который помогает избежать просрочек и штрафов.
 Ключевые функции:
